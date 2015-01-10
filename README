@@ -2,6 +2,8 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4898
 
 Vim as an IDE provides an out of the box IDE like experience using existing vim plugins.
 
+It is intended to allow vim users to get up and running quickly with a minimal set of plugins and configuration options.
+
 You can find more information at https://github.com/hutchinson/vide/releases/tag/1.2.1
 
 Currently vide provides:
